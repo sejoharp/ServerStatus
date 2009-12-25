@@ -1,0 +1,71 @@
+17.09.2009 11:12:24 Uhr:  server online.
+17.09.2009 13:51:30 Uhr:  server online.
+17.09.2009 13:51:30 Uhr:  Listening on localhost:8080
+17.09.2009 13:56:49 Uhr:  server online.
+17.09.2009 13:56:49 Uhr:  Listening on localhost:8080
+17.09.2009 14:01:30 Uhr:  server online.
+17.09.2009 14:01:30 Uhr:  Listening on localhost:8080
+17.09.2009 14:04:28 Uhr:  server online.
+17.09.2009 14:04:28 Uhr:  Listening on localhost:8080
+17.09.2009 14:06:27 Uhr:  server online.
+17.09.2009 14:06:27 Uhr:  Listening on localhost:8080
+17.09.2009 14:07:11 Uhr:  server online.
+17.09.2009 14:07:11 Uhr:  Listening on localhost:8080
+17.09.2009 14:09:10 Uhr:  performing getAvailableSpace.
+17.09.2009 14:11:17 Uhr:  performing getAvailableSpace.
+17.09.2009 14:16:15 Uhr:  server online.
+17.09.2009 14:16:15 Uhr:  Listening on localhost:8080
+17.09.2009 14:17:39 Uhr:  server online.
+17.09.2009 14:17:39 Uhr:  Listening on localhost:8080
+17.09.2009 14:18:53 Uhr:  server online.
+17.09.2009 14:18:53 Uhr:  Listening on localhost:8080
+17.09.2009 14:19:27 Uhr:  performing getAvailableSpace.
+17.09.2009 14:19:27 Uhr:  reading backupsdir
+17.09.2009 14:20:11 Uhr:  server online.
+17.09.2009 14:20:11 Uhr:  Listening on localhost:8080
+17.09.2009 14:20:42 Uhr:  performing getAvailableSpace.
+17.09.2009 14:20:42 Uhr:  reading backupsdir
+17.09.2009 14:20:42 Uhr:  dabei
+17.09.2009 14:20:42 Uhr:  fertig
+17.09.2009 14:21:27 Uhr:  server online.
+17.09.2009 14:21:27 Uhr:  Listening on localhost:8080
+17.09.2009 14:21:41 Uhr:  performing getAvailableSpace.
+17.09.2009 14:21:41 Uhr:  reading backupsdir
+17.09.2009 14:21:41 Uhr:  dabei
+17.09.2009 14:21:41 Uhr:  fertig
+17.09.2009 14:21:41 Uhr:  abgeschlossen
+17.09.2009 14:22:24 Uhr:  server online.
+17.09.2009 14:22:24 Uhr:  Listening on localhost:8080
+17.09.2009 14:23:37 Uhr:  server online.
+17.09.2009 14:23:37 Uhr:  Listening on localhost:8080
+17.09.2009 14:23:45 Uhr:  performing getAvailableSpace.
+17.09.2009 14:23:45 Uhr:  reading backupsdir
+17.09.2009 14:23:45 Uhr:  dabei
+17.09.2009 14:23:45 Uhr:  fertig
+17.09.2009 14:23:45 Uhr:  abgeschlossen
+17.09.2009 14:24:35 Uhr:  performing getAvailableSpace.
+17.09.2009 14:24:35 Uhr:  reading backupsdir
+17.09.2009 14:24:35 Uhr:  dabei
+17.09.2009 14:24:35 Uhr:  fertig
+17.09.2009 14:24:35 Uhr:  abgeschlossen
+17.09.2009 14:26:39 Uhr:  performing getAvailableSpace.
+17.09.2009 14:26:39 Uhr:  reading backupsdir
+17.09.2009 14:26:39 Uhr:  dabei
+17.09.2009 14:26:39 Uhr:  fertig
+17.09.2009 14:26:39 Uhr:  abgeschlossen
+17.09.2009 17:40:56 Uhr:  server online.
+17.09.2009 17:40:56 Uhr:  Listening on localhost:8080
+17.09.2009 17:41:01 Uhr:  performing getAvailableSpace.
+17.09.2009 17:41:01 Uhr:  reading backupsdir
+17.09.2009 17:41:01 Uhr:  dabei
+17.09.2009 17:41:01 Uhr:  fertig
+17.09.2009 17:41:01 Uhr:  abgeschlossen
+17.09.2009 23:25:39 Uhr:  server online.
+17.09.2009 23:25:39 Uhr:  Listening on localhost:8080
+17.09.2009 23:29:02 Uhr:  server online.
+17.09.2009 23:29:02 Uhr:  Listening on localhost:8080
+17.09.2009 23:29:24 Uhr:  performing getAvailableSpace.
+17.09.2009 23:29:24 Uhr:  performing getAvailableSpace.
+17.09.2009 23:31:50 Uhr:  server online.
+17.09.2009 23:31:50 Uhr:  Listening on localhost:8080
+17.09.2009 23:31:54 Uhr:  performing getAvailableSpace.

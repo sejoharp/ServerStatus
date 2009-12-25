@@ -1,0 +1,14 @@
+13.06.2009 14:07:06 Uhr:  null
+13.06.2009 14:10:12 Uhr:  runtime modeler error: Wrapper class org.harpeng.serverstatus.server.jaxws.PerformShutdown is not found. Have you run APT to generate them?
+13.06.2009 15:42:20 Uhr:  server online.
+13.06.2009 15:55:45 Uhr:  server online.
+13.06.2009 16:08:12 Uhr:  server online.
+13.06.2009 16:08:51 Uhr:  service is not available.
+13.06.2009 16:08:51 Uhr:  Failed to access the WSDL at: http://localhost:8000/status?wsdl. It failed with: 
+	Network is unreachable: connect.
+13.06.2009 16:09:10 Uhr:  performing getAvailableSpace.
+13.06.2009 16:10:19 Uhr:  server online.
+13.06.2009 16:10:30 Uhr:  performing getAvailableSpace.
+13.06.2009 16:21:31 Uhr:  service is not available.
+13.06.2009 16:21:31 Uhr:  Failed to access the WSDL at: http://10.1.1.143:8080/status?wsdl. It failed with: 
+	Network is unreachable: connect.
